@@ -3,7 +3,7 @@ name: Update awesome list
 on: 
   workflow_dispatch:
   schedule:
-    - cron: '00 */6 * * *'
+    - cron: '0 4 */1 * *'
 
 jobs:
   build:
@@ -14,6 +14,7 @@ jobs:
         uses: simonecorsi/mawesome@v2
         with:
           template-path: "template/README.ejs"
+          compact-by-topic: "true"
           api-token: ${{ secrets.API_TOKEN }}
           github-email: ${{ secrets.USER_EMAIL }}
           github-name: ${{ github.repository_owner }}
