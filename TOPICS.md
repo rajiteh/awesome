@@ -4,6 +4,11 @@
 
 ## Table of Contents
 
+*   [chatbot](#chatbot)
+*   [conversational-ai](#conversational-ai)
+*   [discord-bot](#discord-bot)
+*   [langchain](#langchain)
+*   [openai](#openai)
 *   [actions](#actions)
 *   [awesome](#awesome)
 *   [awesome-list](#awesome-list)
@@ -16,9 +21,7 @@
 *   [chatgpt](#chatgpt)
 *   [gpt-3](#gpt-3)
 *   [gpt3](#gpt3)
-*   [openai](#openai)
 *   [bots](#bots)
-*   [chatbot](#chatbot)
 *   [chatgpt-api](#chatgpt-api)
 *   [language](#language)
 *   [wsl](#wsl)
@@ -357,11 +360,30 @@
 *   [debugging](#debugging)
 *   [post-mortem](#post-mortem)
 *   [slack-bot](#slack-bot)
-*   [engineering-blogs](#engineering-blogs)
-*   [lists](#lists)
-*   [programming-blogs](#programming-blogs)
-*   [software-development](#software-development)
-*   [tech](#tech)
+
+## chatbot
+
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Developer support bot for Slack and Discord
+
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
+## conversational-ai
+
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Developer support bot for Slack and Discord
+
+## discord-bot
+
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Developer support bot for Slack and Discord
+
+## langchain
+
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Developer support bot for Slack and Discord
+
+## openai
+
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Developer support bot for Slack and Discord
+
+*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
 ## actions
 
@@ -421,15 +443,7 @@
 
 *   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
-## openai
-
-*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
-
 ## bots
-
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-
-## chatbot
 
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
@@ -2072,23 +2086,3 @@
 ## slack-bot
 
 *   [conveyal/trevorbot](https://github.com/conveyal/trevorbot) - Where in the world is our team?
-
-## engineering-blogs
-
-*   [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
-
-## lists
-
-*   [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
-
-## programming-blogs
-
-*   [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
-
-## software-development
-
-*   [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
-
-## tech
-
-*   [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
