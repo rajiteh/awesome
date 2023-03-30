@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
-*   [HTML](#html)
+*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
+*   [HTML](#html)
 *   [C++](#c)
-*   [Python](#python)
 *   [Go](#go)
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
@@ -22,15 +22,45 @@
 *   [Dhall](#dhall)
 *   [Objective-C](#objective-c)
 
-## HTML
+## Python
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Developer support bot for Slack and Discord
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q\&A bots, semantic search, and ChatGPT plugins while effortlessly managing data pipelines.
 
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+*   [jdoiro3/mkdocs-multirepo-plugin](https://github.com/jdoiro3/mkdocs-multirepo-plugin) - Build documentation in multiple repos into one site.
 
-*   [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
+*   [binary-signal/py-gopro-sync](https://github.com/binary-signal/py-gopro-sync) - Python CLI to sync media files from GoPro cameras via wifi
 
-*   [GetPublii/Publii](https://github.com/GetPublii/Publii) -  Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+*   [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page\_facing\_up: Python Apps for Home Automation
+
+*   [enoy19/hass-divoom](https://github.com/enoy19/hass-divoom) - Divoom Integration for Home Assistant
+
+*   [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+
+*   [jbdamask/PiHubBleAwsIoT](https://github.com/jbdamask/PiHubBleAwsIoT) - Makes a Raspberry Pi a Bluetooth Low Energy device hub with IoT connectivity so multiple devices can share states
+
+*   [chvolkmann/govee\_btled](https://github.com/chvolkmann/govee_btled) - A Python wrapper for controlling a cheap Bluetooth RGB light bulb.
+
+*   [wicol/ha-config](https://github.com/wicol/ha-config) -
+
+*   [mintapi/mintapi](https://github.com/mintapi/mintapi) - an unofficial screen-scraping "API" for Mint.com
+
+*   [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
+
+*   [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
+
+*   [miketheman/ecs-host-service-scale](https://github.com/miketheman/ecs-host-service-scale) - Extending ECS Auto-scaling for under $2/month with Lambda
+
+*   [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
+
+*   [cloudnativelabs/kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes
+
+*   [linkedin/oncall](https://github.com/linkedin/oncall) - Oncall is a calendar tool designed for scheduling and managing on-call shifts. It can be used as source of dynamic ownership info for paging systems like http://iris.claims.
+
+*   [linkedin/iris](https://github.com/linkedin/iris) - Iris is a highly configurable and flexible service for paging and messaging.
+
+*   [allenai/kubernetes-initializer-python](https://github.com/allenai/kubernetes-initializer-python) - A library for Python to make it easy to write Kubernetes initializers.
+
+*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 
 ## JavaScript
 
@@ -76,6 +106,14 @@
 
 *   [phoenixframework/phoenix\_guides](https://github.com/phoenixframework/phoenix_guides) - User guides for the Phoenix web development framework.
 
+## HTML
+
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
+*   [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
+
+*   [GetPublii/Publii](https://github.com/GetPublii/Publii) -  Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+
 ## C++
 
 *   [CzBiX/WSLHostPatcher](https://github.com/CzBiX/WSLHostPatcher) - Dynamic patch WSL2 to listen port on any interface.
@@ -83,44 +121,6 @@
 *   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 
 *   [diharaw/helios](https://github.com/diharaw/helios) - Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions.
-
-## Python
-
-*   [jdoiro3/mkdocs-multirepo-plugin](https://github.com/jdoiro3/mkdocs-multirepo-plugin) - Build documentation in multiple repos into one site.
-
-*   [binary-signal/py-gopro-sync](https://github.com/binary-signal/py-gopro-sync) - Python CLI to sync media files from GoPro cameras via wifi
-
-*   [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page\_facing\_up: Python Apps for Home Automation
-
-*   [enoy19/hass-divoom](https://github.com/enoy19/hass-divoom) - Divoom Integration for Home Assistant
-
-*   [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
-
-*   [jbdamask/PiHubBleAwsIoT](https://github.com/jbdamask/PiHubBleAwsIoT) - Makes a Raspberry Pi a Bluetooth Low Energy device hub with IoT connectivity so multiple devices can share states
-
-*   [chvolkmann/govee\_btled](https://github.com/chvolkmann/govee_btled) - A Python wrapper for controlling a cheap Bluetooth RGB light bulb.
-
-*   [wicol/ha-config](https://github.com/wicol/ha-config) -
-
-*   [mintapi/mintapi](https://github.com/mintapi/mintapi) - an unofficial screen-scraping "API" for Mint.com
-
-*   [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
-
-*   [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
-
-*   [miketheman/ecs-host-service-scale](https://github.com/miketheman/ecs-host-service-scale) - Extending ECS Auto-scaling for under $2/month with Lambda
-
-*   [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
-
-*   [cloudnativelabs/kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes
-
-*   [linkedin/oncall](https://github.com/linkedin/oncall) - Oncall is a calendar tool designed for scheduling and managing on-call shifts. It can be used as source of dynamic ownership info for paging systems like http://iris.claims.
-
-*   [linkedin/iris](https://github.com/linkedin/iris) - Iris is a highly configurable and flexible service for paging and messaging.
-
-*   [allenai/kubernetes-initializer-python](https://github.com/allenai/kubernetes-initializer-python) - A library for Python to make it easy to write Kubernetes initializers.
-
-*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 
 ## Go
 

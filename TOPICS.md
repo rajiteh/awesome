@@ -5,10 +5,12 @@
 ## Table of Contents
 
 *   [chatbot](#chatbot)
+*   [chatgpt](#chatgpt)
 *   [conversational-ai](#conversational-ai)
-*   [discord-bot](#discord-bot)
+*   [etl-pipelines](#etl-pipelines)
 *   [langchain](#langchain)
 *   [openai](#openai)
+*   [weaviate](#weaviate)
 *   [actions](#actions)
 *   [awesome](#awesome)
 *   [awesome-list](#awesome-list)
@@ -18,7 +20,6 @@
 *   [starred](#starred)
 *   [starred-repositories](#starred-repositories)
 *   [typescript](#typescript)
-*   [chatgpt](#chatgpt)
 *   [gpt-3](#gpt-3)
 *   [gpt3](#gpt3)
 *   [bots](#bots)
@@ -363,27 +364,39 @@
 
 ## chatbot
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Developer support bot for Slack and Discord
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q\&A bots, semantic search, and ChatGPT plugins while effortlessly managing data pipelines.
+
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
+## chatgpt
+
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q\&A bots, semantic search, and ChatGPT plugins while effortlessly managing data pipelines.
+
+*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## conversational-ai
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Developer support bot for Slack and Discord
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q\&A bots, semantic search, and ChatGPT plugins while effortlessly managing data pipelines.
 
-## discord-bot
+## etl-pipelines
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Developer support bot for Slack and Discord
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q\&A bots, semantic search, and ChatGPT plugins while effortlessly managing data pipelines.
 
 ## langchain
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Developer support bot for Slack and Discord
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q\&A bots, semantic search, and ChatGPT plugins while effortlessly managing data pipelines.
 
 ## openai
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Developer support bot for Slack and Discord
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q\&A bots, semantic search, and ChatGPT plugins while effortlessly managing data pipelines.
 
 *   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+
+## weaviate
+
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q\&A bots, semantic search, and ChatGPT plugins while effortlessly managing data pipelines.
 
 ## actions
 
@@ -428,12 +441,6 @@
 *   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 
 *   [wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - DEPRECATED: Create React apps using typescript with no build configuration.
-
-## chatgpt
-
-*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
-
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## gpt-3
 
