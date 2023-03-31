@@ -24,7 +24,7 @@
 
 ## Python
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q\&A bots, semantic search, and ChatGPT plugins while effortlessly managing data pipelines.
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by GPT apps
 
 *   [jdoiro3/mkdocs-multirepo-plugin](https://github.com/jdoiro3/mkdocs-multirepo-plugin) - Build documentation in multiple repos into one site.
 

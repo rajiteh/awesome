@@ -364,13 +364,13 @@
 
 ## chatbot
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q\&A bots, semantic search, and ChatGPT plugins while effortlessly managing data pipelines.
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by GPT apps
 
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## chatgpt
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q\&A bots, semantic search, and ChatGPT plugins while effortlessly managing data pipelines.
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by GPT apps
 
 *   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
@@ -378,25 +378,25 @@
 
 ## conversational-ai
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q\&A bots, semantic search, and ChatGPT plugins while effortlessly managing data pipelines.
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by GPT apps
 
 ## etl-pipelines
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q\&A bots, semantic search, and ChatGPT plugins while effortlessly managing data pipelines.
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by GPT apps
 
 ## langchain
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q\&A bots, semantic search, and ChatGPT plugins while effortlessly managing data pipelines.
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by GPT apps
 
 ## openai
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q\&A bots, semantic search, and ChatGPT plugins while effortlessly managing data pipelines.
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by GPT apps
 
 *   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
 ## weaviate
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q\&A bots, semantic search, and ChatGPT plugins while effortlessly managing data pipelines.
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by GPT apps
 
 ## actions
 
