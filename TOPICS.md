@@ -134,16 +134,21 @@
 *   [steampipe](#steampipe)
 *   [terraform](#terraform)
 *   [asdf-vm](#asdf-vm)
+*   [bash](#bash)
 *   [elixir](#elixir)
+*   [elvish](#elvish)
 *   [erlang](#erlang)
+*   [fish](#fish)
 *   [multiple-languages](#multiple-languages)
-*   [nodejs](#nodejs)
+*   [node](#node)
+*   [nushell](#nushell)
+*   [powershell](#powershell)
 *   [ruby](#ruby)
 *   [shell](#shell)
 *   [version-manager](#version-manager)
+*   [zsh](#zsh)
 *   [fzf](#fzf)
 *   [jq](#jq)
-*   [zsh](#zsh)
 *   [zsh-plugin](#zsh-plugin)
 *   [zshell](#zshell)
 *   [alertmanager](#alertmanager)
@@ -294,6 +299,7 @@
 *   [storage-container](#storage-container)
 *   [command-line-tool](#command-line-tool)
 *   [console](#console)
+*   [nodejs](#nodejs)
 *   [agones](#agones)
 *   [dedicated-game-servers](#dedicated-game-servers)
 *   [dedicated-gameservers](#dedicated-gameservers)
@@ -499,6 +505,8 @@
 *   [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page\_facing\_up: Python Apps for Home Automation
 
 *   [chvolkmann/govee\_btled](https://github.com/chvolkmann/govee_btled) - A Python wrapper for controlling a cheap Bluetooth RGB light bulb.
+
+*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
 *   [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 
@@ -1100,6 +1108,8 @@
 
 *   [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 
+*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+
 *   [patrickdappollonio/tgen](https://github.com/patrickdappollonio/tgen) - A template tool with no dependencies that works like Helm templates or Consul templates.
 
 *   [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
@@ -1142,7 +1152,15 @@
 
 *   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
+## bash
+
+*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+
 ## elixir
+
+*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+
+## elvish
 
 *   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
@@ -1150,15 +1168,25 @@
 
 *   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
+## fish
+
+*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+
 ## multiple-languages
 
 *   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
-## nodejs
+## node
 
 *   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
-*   [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
+## nushell
+
+*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+
+## powershell
+
+*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
 ## ruby
 
@@ -1174,15 +1202,17 @@
 
 *   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
+## zsh
+
+*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+
+*   [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
+
 ## fzf
 
 *   [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
 
 ## jq
-
-*   [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
-
-## zsh
 
 *   [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
 
@@ -1821,6 +1851,10 @@
 *   [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 
 *   [astefanutti/kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal and Web console for Kubernetes
+
+## nodejs
+
+*   [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 
 ## agones
 
