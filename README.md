@@ -4,12 +4,13 @@
 
 ## Table of Contents
 
+*   [Python](#python)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [C++](#c)
-*   [Python](#python)
 *   [Go](#go)
 *   [Shell](#shell)
 *   [C](#c-1)
@@ -22,79 +23,9 @@
 *   [Dhall](#dhall)
 *   [Objective-C](#objective-c)
 
-## TypeScript
-
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by GPT apps
-
-*   [kaveenr/sl-protest-tracker](https://github.com/kaveenr/sl-protest-tracker) - Sri Lankan Crisis Protest Tracker
-
-*   [dhleong/playactor](https://github.com/dhleong/playactor) - play around with your playstation devices
-
-*   [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
-
-*   [saleor/saleor-storefront](https://github.com/saleor/saleor-storefront) - A GraphQL-powered, NextJs-based, PWA storefront for Saleor. IMPORTANT: This project is \[DEPRECATED] in favor of saleor/react-storefront soon to become our default demo and storefront starter pack.
-
-## JavaScript
-
-*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
-
-*   [gothinkster/node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app) -
-
-*   [HackerShackOfficial/multi-stream-chatbot](https://github.com/HackerShackOfficial/multi-stream-chatbot) - Chatbot framework that listens and sends messages to multiple live-streaming platforms simultaneously
-
-*   [Cezerin2/cezerin2-api](https://github.com/Cezerin2/cezerin2-api) - Cezerin2 is React and Node.js based eCommerce platform. React Shopping Cart.
-
-*   [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
-
-*   [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
-
-*   [astefanutti/kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal and Web console for Kubernetes
-
-*   [mapbox/DEPRECATED-dispatch](https://github.com/mapbox/DEPRECATED-dispatch) - Alarm routing engine for security and platform incident response teams.
-
-*   [jaxgeller/free-proxy-rotator](https://github.com/jaxgeller/free-proxy-rotator) - Rotate free proxies
-
-*   [wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - DEPRECATED: Create React apps using typescript with no build configuration.
-
-*   [conveyal/trevorbot](https://github.com/conveyal/trevorbot) - Where in the world is our team?
-
-## miscellaneous
-
-*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
-
-*   [BlackVS/ESP32-reversing](https://github.com/BlackVS/ESP32-reversing) - A curated list of ESP32 related reversing resources
-
-*   [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
-
-*   [Sayan3sarkar/node-express-realworld-example-app](https://github.com/Sayan3sarkar/node-express-realworld-example-app) -
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-*   [openebs/openebs](https://github.com/openebs/openebs) - Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
-
-*   [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
-
-*   [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
-
-*   [phoenixframework/phoenix\_guides](https://github.com/phoenixframework/phoenix_guides) - User guides for the Phoenix web development framework.
-
-## HTML
-
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-
-*   [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
-
-*   [GetPublii/Publii](https://github.com/GetPublii/Publii) -  Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
-
-## C++
-
-*   [CzBiX/WSLHostPatcher](https://github.com/CzBiX/WSLHostPatcher) - Dynamic patch WSL2 to listen port on any interface.
-
-*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-
-*   [diharaw/helios](https://github.com/diharaw/helios) - Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions.
-
 ## Python
+
+*   [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -
 
 *   [jdoiro3/mkdocs-multirepo-plugin](https://github.com/jdoiro3/mkdocs-multirepo-plugin) - Build documentation in multiple repos into one site.
 
@@ -131,6 +62,78 @@
 *   [allenai/kubernetes-initializer-python](https://github.com/allenai/kubernetes-initializer-python) - A library for Python to make it easy to write Kubernetes initializers.
 
 *   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
+
+## Jupyter Notebook
+
+*   [amrrs/csvchat-langchain](https://github.com/amrrs/csvchat-langchain) - CSV Chat with LangChain and OpenAI
+
+## TypeScript
+
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by GPT apps
+
+*   [kaveenr/sl-protest-tracker](https://github.com/kaveenr/sl-protest-tracker) - Sri Lankan Crisis Protest Tracker
+
+*   [dhleong/playactor](https://github.com/dhleong/playactor) - play around with your playstation devices
+
+*   [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
+
+*   [saleor/saleor-storefront](https://github.com/saleor/saleor-storefront) - A GraphQL-powered, NextJs-based, PWA storefront for Saleor. IMPORTANT: This project is \[DEPRECATED] in favor of saleor/react-storefront soon to become our default demo and storefront starter pack.
+
+## JavaScript
+
+*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
+
+*   [gothinkster/node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app) -
+
+*   [HackerShackOfficial/multi-stream-chatbot](https://github.com/HackerShackOfficial/multi-stream-chatbot) - Chatbot framework that listens and sends messages to multiple live-streaming platforms simultaneously
+
+*   [Cezerin2/cezerin2-api](https://github.com/Cezerin2/cezerin2-api) - Cezerin2 is React and Node.js based eCommerce platform. React Shopping Cart.
+
+*   [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
+
+*   [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
+
+*   [astefanutti/kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal and Web console for Kubernetes
+
+*   [mapbox/DEPRECATED-dispatch](https://github.com/mapbox/DEPRECATED-dispatch) - Alarm routing engine for security and platform incident response teams.
+
+*   [jaxgeller/free-proxy-rotator](https://github.com/jaxgeller/free-proxy-rotator) - Rotate free proxies
+
+*   [wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - DEPRECATED: Create React apps using typescript with no build configuration.
+
+## miscellaneous
+
+*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+
+*   [BlackVS/ESP32-reversing](https://github.com/BlackVS/ESP32-reversing) - A curated list of ESP32 related reversing resources
+
+*   [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
+
+*   [Sayan3sarkar/node-express-realworld-example-app](https://github.com/Sayan3sarkar/node-express-realworld-example-app) -
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+*   [openebs/openebs](https://github.com/openebs/openebs) - Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
+
+*   [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
+
+*   [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
+
+## HTML
+
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
+*   [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
+
+*   [GetPublii/Publii](https://github.com/GetPublii/Publii) -  Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+
+## C++
+
+*   [CzBiX/WSLHostPatcher](https://github.com/CzBiX/WSLHostPatcher) - Dynamic patch WSL2 to listen port on any interface.
+
+*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+
+*   [diharaw/helios](https://github.com/diharaw/helios) - Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions.
 
 ## Go
 

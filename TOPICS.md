@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [chatbot](#chatbot)
 *   [chatgpt](#chatgpt)
 *   [conversational-ai](#conversational-ai)
@@ -35,7 +36,6 @@
 *   [python](#python)
 *   [cli](#cli)
 *   [gopro](#gopro)
-*   [miscellaneous](#miscellaneous)
 *   [home-automation](#home-automation)
 *   [divoom](#divoom)
 *   [home-assistant](#home-assistant)
@@ -366,7 +366,70 @@
 *   [webpack](#webpack)
 *   [debugging](#debugging)
 *   [post-mortem](#post-mortem)
-*   [slack-bot](#slack-bot)
+
+## miscellaneous
+
+*   [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -
+
+*   [amrrs/csvchat-langchain](https://github.com/amrrs/csvchat-langchain) - CSV Chat with LangChain and OpenAI
+
+*   [felixge/fgtrace](https://github.com/felixge/fgtrace) - fgtrace is an experimental profiler/tracer that is capturing wallclock timelines for each goroutine. It's very similar to the Chrome profiler.
+
+*   [brad-jones/asdf-bootstrap](https://github.com/brad-jones/asdf-bootstrap) - A bootstrap script that installs a local & isolated version of https://asdf-vm.com/
+
+*   [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
+
+*   [jbdamask/PiHubBleAwsIoT](https://github.com/jbdamask/PiHubBleAwsIoT) - Makes a Raspberry Pi a Bluetooth Low Energy device hub with IoT connectivity so multiple devices can share states
+
+*   [snowzach/echbt](https://github.com/snowzach/echbt) -
+
+*   [sorah/etcvault](https://github.com/sorah/etcvault) - proxy for etcd, adding transparent encryption
+
+*   [dxflatline/flatpipes](https://github.com/dxflatline/flatpipes) - A TCP proxy over named pipes. Originally created for maintaining a meterpreter session over 445 for less network alarms.
+
+*   [ScottESanDiego/virtwold](https://github.com/ScottESanDiego/virtwold) - Wake-on-LAN for libvirt based VMs
+
+*   [dhleong/playactor](https://github.com/dhleong/playactor) - play around with your playstation devices
+
+*   [wicol/ha-config](https://github.com/wicol/ha-config) -
+
+*   [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
+
+*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+
+*   [Sayan3sarkar/node-express-realworld-example-app](https://github.com/Sayan3sarkar/node-express-realworld-example-app) -
+
+*   [gothinkster/node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app) -
+
+*   [HackerShackOfficial/multi-stream-chatbot](https://github.com/HackerShackOfficial/multi-stream-chatbot) - Chatbot framework that listens and sends messages to multiple live-streaming platforms simultaneously
+
+*   [ShinyTrinkets/overseer](https://github.com/ShinyTrinkets/overseer) - Minimalistic process manager written in Go-lang. Bells and whistles not included.
+
+*   [rancher/terraform-provider-rke](https://github.com/rancher/terraform-provider-rke) - Terraform provider plugin for deploy kubernetes cluster by RKE(Rancher Kubernetes Engine)
+
+*   [mintapi/mintapi](https://github.com/mintapi/mintapi) - an unofficial screen-scraping "API" for Mint.com
+
+*   [KovaaK/SensitivityMatcher](https://github.com/KovaaK/SensitivityMatcher) - Script that can be used to convert your mouse sensitivity between different 3D games.
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+*   [antonmedv/red](https://github.com/antonmedv/red) - Terminal log analysis tools
+
+*   [jpillora/overseer](https://github.com/jpillora/overseer) - Monitorable, gracefully restarting, self-upgrading binaries in Go (golang)
+
+*   [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
+
+*   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+
+*   [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
+
+*   [jaxgeller/free-proxy-rotator](https://github.com/jaxgeller/free-proxy-rotator) - Rotate free proxies
+
+*   [marcopaganini/smartcollector](https://github.com/marcopaganini/smartcollector) - SmartThings sensor data collector for prometheus
+
+*   [allenai/kubernetes-initializer-python](https://github.com/allenai/kubernetes-initializer-python) - A library for Python to make it easy to write Kubernetes initializers.
+
+*   [HP41/docker-ark-server](https://github.com/HP41/docker-ark-server) - Docker Image for an Ark Server instance
 
 ## chatbot
 
@@ -540,68 +603,6 @@
 
 *   [binary-signal/py-gopro-sync](https://github.com/binary-signal/py-gopro-sync) - Python CLI to sync media files from GoPro cameras via wifi
 
-## miscellaneous
-
-*   [felixge/fgtrace](https://github.com/felixge/fgtrace) - fgtrace is an experimental profiler/tracer that is capturing wallclock timelines for each goroutine. It's very similar to the Chrome profiler.
-
-*   [brad-jones/asdf-bootstrap](https://github.com/brad-jones/asdf-bootstrap) - A bootstrap script that installs a local & isolated version of https://asdf-vm.com/
-
-*   [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
-
-*   [jbdamask/PiHubBleAwsIoT](https://github.com/jbdamask/PiHubBleAwsIoT) - Makes a Raspberry Pi a Bluetooth Low Energy device hub with IoT connectivity so multiple devices can share states
-
-*   [snowzach/echbt](https://github.com/snowzach/echbt) -
-
-*   [sorah/etcvault](https://github.com/sorah/etcvault) - proxy for etcd, adding transparent encryption
-
-*   [dxflatline/flatpipes](https://github.com/dxflatline/flatpipes) - A TCP proxy over named pipes. Originally created for maintaining a meterpreter session over 445 for less network alarms.
-
-*   [ScottESanDiego/virtwold](https://github.com/ScottESanDiego/virtwold) - Wake-on-LAN for libvirt based VMs
-
-*   [dhleong/playactor](https://github.com/dhleong/playactor) - play around with your playstation devices
-
-*   [wicol/ha-config](https://github.com/wicol/ha-config) -
-
-*   [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
-
-*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-
-*   [Sayan3sarkar/node-express-realworld-example-app](https://github.com/Sayan3sarkar/node-express-realworld-example-app) -
-
-*   [gothinkster/node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app) -
-
-*   [HackerShackOfficial/multi-stream-chatbot](https://github.com/HackerShackOfficial/multi-stream-chatbot) - Chatbot framework that listens and sends messages to multiple live-streaming platforms simultaneously
-
-*   [ShinyTrinkets/overseer](https://github.com/ShinyTrinkets/overseer) - Minimalistic process manager written in Go-lang. Bells and whistles not included.
-
-*   [rancher/terraform-provider-rke](https://github.com/rancher/terraform-provider-rke) - Terraform provider plugin for deploy kubernetes cluster by RKE(Rancher Kubernetes Engine)
-
-*   [mintapi/mintapi](https://github.com/mintapi/mintapi) - an unofficial screen-scraping "API" for Mint.com
-
-*   [KovaaK/SensitivityMatcher](https://github.com/KovaaK/SensitivityMatcher) - Script that can be used to convert your mouse sensitivity between different 3D games.
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-*   [antonmedv/red](https://github.com/antonmedv/red) - Terminal log analysis tools
-
-*   [jpillora/overseer](https://github.com/jpillora/overseer) - Monitorable, gracefully restarting, self-upgrading binaries in Go (golang)
-
-*   [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
-
-*   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-
-*   [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
-
-*   [jaxgeller/free-proxy-rotator](https://github.com/jaxgeller/free-proxy-rotator) - Rotate free proxies
-
-*   [marcopaganini/smartcollector](https://github.com/marcopaganini/smartcollector) - SmartThings sensor data collector for prometheus
-
-*   [allenai/kubernetes-initializer-python](https://github.com/allenai/kubernetes-initializer-python) - A library for Python to make it easy to write Kubernetes initializers.
-
-*   [HP41/docker-ark-server](https://github.com/HP41/docker-ark-server) - Docker Image for an Ark Server instance
-
-*   [phoenixframework/phoenix\_guides](https://github.com/phoenixframework/phoenix_guides) - User guides for the Phoenix web development framework.
-
 ## home-automation
 
 *   [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page\_facing\_up: Python Apps for Home Automation
@@ -687,8 +688,6 @@
 *   [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 
 *   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-
-*   [conveyal/trevorbot](https://github.com/conveyal/trevorbot) - Where in the world is our team?
 
 ## protests
 
@@ -2123,7 +2122,3 @@
 ## post-mortem
 
 *   [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
-
-## slack-bot
-
-*   [conveyal/trevorbot](https://github.com/conveyal/trevorbot) - Where in the world is our team?
