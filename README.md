@@ -69,7 +69,7 @@
 
 ## TypeScript
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by GPT apps
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by LLM apps
 
 *   [kaveenr/sl-protest-tracker](https://github.com/kaveenr/sl-protest-tracker) - Sri Lankan Crisis Protest Tracker
 
