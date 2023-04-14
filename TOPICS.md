@@ -5,12 +5,25 @@
 ## Table of Contents
 
 *   [miscellaneous](#miscellaneous)
-*   [chatbot](#chatbot)
+*   [ab-testing](#ab-testing)
+*   [analytics](#analytics)
+*   [experiments](#experiments)
+*   [feature-flags](#feature-flags)
+*   [javascript](#javascript)
+*   [python](#python)
+*   [react](#react)
+*   [session-replay](#session-replay)
+*   [typescript](#typescript)
 *   [chatgpt](#chatgpt)
+*   [docs](#docs)
+*   [gpt-3](#gpt-3)
+*   [gpt-35-turbo](#gpt-35-turbo)
+*   [gpt-4](#gpt-4)
+*   [openai](#openai)
+*   [chatbot](#chatbot)
 *   [conversational-ai](#conversational-ai)
 *   [etl-pipelines](#etl-pipelines)
 *   [langchain](#langchain)
-*   [openai](#openai)
 *   [weaviate](#weaviate)
 *   [actions](#actions)
 *   [awesome](#awesome)
@@ -20,8 +33,6 @@
 *   [github-actions](#github-actions)
 *   [starred](#starred)
 *   [starred-repositories](#starred-repositories)
-*   [typescript](#typescript)
-*   [gpt-3](#gpt-3)
 *   [gpt3](#gpt3)
 *   [bots](#bots)
 *   [chatgpt-api](#chatgpt-api)
@@ -33,7 +44,6 @@
 *   [mkdocs](#mkdocs)
 *   [mkdocs-plugin](#mkdocs-plugin)
 *   [mkdocs-plugins](#mkdocs-plugins)
-*   [python](#python)
 *   [cli](#cli)
 *   [gopro](#gopro)
 *   [home-automation](#home-automation)
@@ -252,7 +262,6 @@
 *   [cezerin](#cezerin)
 *   [cezerin-store](#cezerin-store)
 *   [mongodb](#mongodb)
-*   [react](#react)
 *   [react-shopping-cart](#react-shopping-cart)
 *   [reactjs](#reactjs)
 *   [reactshopping](#reactshopping)
@@ -357,17 +366,12 @@
 *   [navigator](#navigator)
 *   [react-native](#react-native)
 *   [react-native-navigation](#react-native-navigation)
-*   [aws-apigateway](#aws-apigateway)
-*   [python27](#python27)
-*   [python3](#python3)
-*   [serverless-framework](#serverless-framework)
-*   [create-react-app](#create-react-app)
-*   [frontend](#frontend)
-*   [webpack](#webpack)
-*   [debugging](#debugging)
-*   [post-mortem](#post-mortem)
 
 ## miscellaneous
+
+*   [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
+
+*   [jerryjliu/llama\_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 
 *   [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -
 
@@ -429,19 +433,99 @@
 
 *   [allenai/kubernetes-initializer-python](https://github.com/allenai/kubernetes-initializer-python) - A library for Python to make it easy to write Kubernetes initializers.
 
-*   [HP41/docker-ark-server](https://github.com/HP41/docker-ark-server) - Docker Image for an Ark Server instance
+## ab-testing
 
-## chatbot
+*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by LLM apps
+## analytics
 
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
+
+## experiments
+
+*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
+
+## feature-flags
+
+*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
+
+## javascript
+
+*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
+
+## python
+
+*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
+
+*   [jdoiro3/mkdocs-multirepo-plugin](https://github.com/jdoiro3/mkdocs-multirepo-plugin) - Build documentation in multiple repos into one site.
+
+*   [binary-signal/py-gopro-sync](https://github.com/binary-signal/py-gopro-sync) - Python CLI to sync media files from GoPro cameras via wifi
+
+*   [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page\_facing\_up: Python Apps for Home Automation
+
+*   [chvolkmann/govee\_btled](https://github.com/chvolkmann/govee_btled) - A Python wrapper for controlling a cheap Bluetooth RGB light bulb.
+
+*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+
+*   [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
+
+*   [cloudnativelabs/kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes
+
+## react
+
+*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
+
+*   [Cezerin2/cezerin2-api](https://github.com/Cezerin2/cezerin2-api) - Cezerin2 is React and Node.js based eCommerce platform. React Shopping Cart.
+
+## session-replay
+
+*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
+
+## typescript
+
+*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
+
+*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 
 ## chatgpt
+
+*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 *   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by LLM apps
 
 *   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
+## docs
+
+*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+
+## gpt-3
+
+*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+
+*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+
+## gpt-35-turbo
+
+*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+
+## gpt-4
+
+*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+
+## openai
+
+*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by LLM apps
+
+*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+
+## chatbot
+
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by LLM apps
 
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
@@ -456,12 +540,6 @@
 ## langchain
 
 *   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by LLM apps
-
-## openai
-
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by LLM apps
-
-*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
 ## weaviate
 
@@ -504,16 +582,6 @@
 ## starred-repositories
 
 *   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
-
-## typescript
-
-*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
-
-*   [wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - DEPRECATED: Create React apps using typescript with no build configuration.
-
-## gpt-3
-
-*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
 ## gpt3
 
@@ -558,24 +626,6 @@
 ## mkdocs-plugins
 
 *   [jdoiro3/mkdocs-multirepo-plugin](https://github.com/jdoiro3/mkdocs-multirepo-plugin) - Build documentation in multiple repos into one site.
-
-## python
-
-*   [jdoiro3/mkdocs-multirepo-plugin](https://github.com/jdoiro3/mkdocs-multirepo-plugin) - Build documentation in multiple repos into one site.
-
-*   [binary-signal/py-gopro-sync](https://github.com/binary-signal/py-gopro-sync) - Python CLI to sync media files from GoPro cameras via wifi
-
-*   [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page\_facing\_up: Python Apps for Home Automation
-
-*   [chvolkmann/govee\_btled](https://github.com/chvolkmann/govee_btled) - A Python wrapper for controlling a cheap Bluetooth RGB light bulb.
-
-*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-
-*   [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
-
-*   [cloudnativelabs/kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes
-
-*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 
 ## cli
 
@@ -633,8 +683,6 @@
 
 *   [miketheman/ecs-host-service-scale](https://github.com/miketheman/ecs-host-service-scale) - Extending ECS Auto-scaling for under $2/month with Lambda
 
-*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-
 ## azure
 
 *   [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
@@ -648,8 +696,6 @@
 *   [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 
 *   [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
-
-*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 
 ## cloud-computing
 
@@ -673,8 +719,6 @@
 
 *   [miketheman/ecs-host-service-scale](https://github.com/miketheman/ecs-host-service-scale) - Extending ECS Auto-scaling for under $2/month with Lambda
 
-*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-
 ## management
 
 *   [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
@@ -686,8 +730,6 @@
 ## serverless
 
 *   [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
-
-*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 
 ## protests
 
@@ -1056,8 +1098,6 @@
 *   [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 
 *   [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
-
-*   [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 
 ## hacktoberfest2020
 
@@ -1655,12 +1695,6 @@
 
 *   [Cezerin2/cezerin2-api](https://github.com/Cezerin2/cezerin2-api) - Cezerin2 is React and Node.js based eCommerce platform. React Shopping Cart.
 
-## react
-
-*   [Cezerin2/cezerin2-api](https://github.com/Cezerin2/cezerin2-api) - Cezerin2 is React and Node.js based eCommerce platform. React Shopping Cart.
-
-*   [wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - DEPRECATED: Create React apps using typescript with no build configuration.
-
 ## react-shopping-cart
 
 *   [Cezerin2/cezerin2-api](https://github.com/Cezerin2/cezerin2-api) - Cezerin2 is React and Node.js based eCommerce platform. React Shopping Cart.
@@ -1993,8 +2027,6 @@
 
 *   [miketheman/ecs-host-service-scale](https://github.com/miketheman/ecs-host-service-scale) - Extending ECS Auto-scaling for under $2/month with Lambda
 
-*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-
 ## ecs
 
 *   [miketheman/ecs-host-service-scale](https://github.com/miketheman/ecs-host-service-scale) - Extending ECS Auto-scaling for under $2/month with Lambda
@@ -2086,39 +2118,3 @@
 ## react-native-navigation
 
 *   [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
-
-## aws-apigateway
-
-*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-
-## python27
-
-*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-
-## python3
-
-*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-
-## serverless-framework
-
-*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-
-## create-react-app
-
-*   [wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - DEPRECATED: Create React apps using typescript with no build configuration.
-
-## frontend
-
-*   [wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - DEPRECATED: Create React apps using typescript with no build configuration.
-
-## webpack
-
-*   [wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - DEPRECATED: Create React apps using typescript with no build configuration.
-
-## debugging
-
-*   [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
-
-## post-mortem
-
-*   [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!

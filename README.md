@@ -5,8 +5,8 @@
 ## Table of Contents
 
 *   [Python](#python)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
@@ -24,6 +24,10 @@
 *   [Objective-C](#objective-c)
 
 ## Python
+
+*   [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
+
+*   [jerryjliu/llama\_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 
 *   [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -
 
@@ -61,13 +65,9 @@
 
 *   [allenai/kubernetes-initializer-python](https://github.com/allenai/kubernetes-initializer-python) - A library for Python to make it easy to write Kubernetes initializers.
 
-*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-
-## Jupyter Notebook
-
-*   [amrrs/csvchat-langchain](https://github.com/amrrs/csvchat-langchain) - CSV Chat with LangChain and OpenAI
-
 ## TypeScript
+
+*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 
 *   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by LLM apps
 
@@ -78,6 +78,12 @@
 *   [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 
 *   [saleor/saleor-storefront](https://github.com/saleor/saleor-storefront) - A GraphQL-powered, NextJs-based, PWA storefront for Saleor. IMPORTANT: This project is \[DEPRECATED] in favor of saleor/react-storefront soon to become our default demo and storefront starter pack.
+
+## Jupyter Notebook
+
+*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+
+*   [amrrs/csvchat-langchain](https://github.com/amrrs/csvchat-langchain) - CSV Chat with LangChain and OpenAI
 
 ## JavaScript
 
@@ -99,8 +105,6 @@
 
 *   [jaxgeller/free-proxy-rotator](https://github.com/jaxgeller/free-proxy-rotator) - Rotate free proxies
 
-*   [wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - DEPRECATED: Create React apps using typescript with no build configuration.
-
 ## miscellaneous
 
 *   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
@@ -116,8 +120,6 @@
 *   [openebs/openebs](https://github.com/openebs/openebs) - Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
 
 *   [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
-
-*   [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 
 ## HTML
 
@@ -212,8 +214,6 @@
 *   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
 *   [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
-
-*   [HP41/docker-ark-server](https://github.com/HP41/docker-ark-server) - Docker Image for an Ark Server instance
 
 ## C
 
