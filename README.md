@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Python](#python)
 *   [TypeScript](#typescript)
+*   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
@@ -21,7 +21,22 @@
 *   [AutoIt](#autoit)
 *   [SCSS](#scss)
 *   [Dhall](#dhall)
-*   [Objective-C](#objective-c)
+
+## TypeScript
+
+*   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
+
+*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
+
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by LLM apps
+
+*   [kaveenr/sl-protest-tracker](https://github.com/kaveenr/sl-protest-tracker) - Sri Lankan Crisis Protest Tracker
+
+*   [dhleong/playactor](https://github.com/dhleong/playactor) - play around with your playstation devices
+
+*   [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
+
+*   [saleor/saleor-storefront](https://github.com/saleor/saleor-storefront) - A GraphQL-powered, NextJs-based, PWA storefront for Saleor. IMPORTANT: This project is \[DEPRECATED] in favor of saleor/react-storefront soon to become our default demo and storefront starter pack.
 
 ## Python
 
@@ -64,20 +79,6 @@
 *   [linkedin/iris](https://github.com/linkedin/iris) - Iris is a highly configurable and flexible service for paging and messaging.
 
 *   [allenai/kubernetes-initializer-python](https://github.com/allenai/kubernetes-initializer-python) - A library for Python to make it easy to write Kubernetes initializers.
-
-## TypeScript
-
-*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
-
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by LLM apps
-
-*   [kaveenr/sl-protest-tracker](https://github.com/kaveenr/sl-protest-tracker) - Sri Lankan Crisis Protest Tracker
-
-*   [dhleong/playactor](https://github.com/dhleong/playactor) - play around with your playstation devices
-
-*   [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
-
-*   [saleor/saleor-storefront](https://github.com/saleor/saleor-storefront) - A GraphQL-powered, NextJs-based, PWA storefront for Saleor. IMPORTANT: This project is \[DEPRECATED] in favor of saleor/react-storefront soon to become our default demo and storefront starter pack.
 
 ## Jupyter Notebook
 
@@ -254,7 +255,3 @@
 ## Dhall
 
 *   [dhall-lang/dhall-lang](https://github.com/dhall-lang/dhall-lang) - Maintainable configuration files
-
-## Objective-C
-
-*   [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native

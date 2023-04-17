@@ -362,12 +362,10 @@
 *   [configuration-language](#configuration-language)
 *   [dhall](#dhall)
 *   [unit-testing](#unit-testing)
-*   [navigation](#navigation)
-*   [navigator](#navigator)
-*   [react-native](#react-native)
-*   [react-native-navigation](#react-native-navigation)
 
 ## miscellaneous
+
+*   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 
 *   [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 
@@ -1096,8 +1094,6 @@
 *   [openebs/openebs](https://github.com/openebs/openebs) - Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
 
 *   [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
-
-*   [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 
 ## hacktoberfest2020
 
@@ -2102,19 +2098,3 @@
 ## unit-testing
 
 *   [kevinjqiu/pat](https://github.com/kevinjqiu/pat) - Prometheus Alert Testing utility
-
-## navigation
-
-*   [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
-
-## navigator
-
-*   [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
-
-## react-native
-
-*   [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
-
-## react-native-navigation
-
-*   [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
