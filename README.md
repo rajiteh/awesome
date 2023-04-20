@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
 *   [Python](#python)
+*   [TypeScript](#typescript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
@@ -22,23 +22,9 @@
 *   [SCSS](#scss)
 *   [Dhall](#dhall)
 
-## TypeScript
-
-*   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
-
-*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
-
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL platform for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by LLM apps
-
-*   [kaveenr/sl-protest-tracker](https://github.com/kaveenr/sl-protest-tracker) - Sri Lankan Crisis Protest Tracker
-
-*   [dhleong/playactor](https://github.com/dhleong/playactor) - play around with your playstation devices
-
-*   [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
-
-*   [saleor/saleor-storefront](https://github.com/saleor/saleor-storefront) - A GraphQL-powered, NextJs-based, PWA storefront for Saleor. IMPORTANT: This project is \[DEPRECATED] in favor of saleor/react-storefront soon to become our default demo and storefront starter pack.
-
 ## Python
+
+*   [angad/dharamshala](https://github.com/angad/dharamshala) -
 
 *   [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 
@@ -78,7 +64,21 @@
 
 *   [linkedin/iris](https://github.com/linkedin/iris) - Iris is a highly configurable and flexible service for paging and messaging.
 
-*   [allenai/kubernetes-initializer-python](https://github.com/allenai/kubernetes-initializer-python) - A library for Python to make it easy to write Kubernetes initializers.
+## TypeScript
+
+*   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
+
+*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
+
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL platform for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector database, where they can be easily queried by LLM apps
+
+*   [kaveenr/sl-protest-tracker](https://github.com/kaveenr/sl-protest-tracker) - Sri Lankan Crisis Protest Tracker
+
+*   [dhleong/playactor](https://github.com/dhleong/playactor) - play around with your playstation devices
+
+*   [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
+
+*   [saleor/saleor-storefront](https://github.com/saleor/saleor-storefront) - A GraphQL-powered, NextJs-based, PWA storefront for Saleor. IMPORTANT: This project is \[DEPRECATED] in favor of saleor/react-storefront soon to become our default demo and storefront starter pack.
 
 ## Jupyter Notebook
 
