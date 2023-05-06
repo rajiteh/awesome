@@ -489,7 +489,7 @@
 
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL platform for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector database, where they can be easily queried by LLM apps
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
 
 *   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
@@ -517,31 +517,31 @@
 
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL platform for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector database, where they can be easily queried by LLM apps
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
 
 *   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
 ## chatbot
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL platform for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector database, where they can be easily queried by LLM apps
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
 
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## conversational-ai
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL platform for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector database, where they can be easily queried by LLM apps
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
 
 ## etl-pipelines
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL platform for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector database, where they can be easily queried by LLM apps
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
 
 ## langchain
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL platform for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector database, where they can be easily queried by LLM apps
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
 
 ## weaviate
 
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL platform for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector database, where they can be easily queried by LLM apps
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
 
 ## actions
 
