@@ -24,6 +24,8 @@
 
 ## Python
 
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+
 *   [angad/dharamshala](https://github.com/angad/dharamshala) -
 
 *   [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
@@ -203,8 +205,6 @@
 *   [kevinjqiu/promcli](https://github.com/kevinjqiu/promcli) - A shell for loading Prometheus metrics fixtures and evaluating Prometheus expressions
 
 *   [kevinjqiu/pat](https://github.com/kevinjqiu/pat) - Prometheus Alert Testing utility
-
-*   [marcopaganini/smartcollector](https://github.com/marcopaganini/smartcollector) - SmartThings sensor data collector for prometheus
 
 ## Shell
 

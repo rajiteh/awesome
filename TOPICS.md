@@ -4,6 +4,22 @@
 
 ## Table of Contents
 
+*   [ai](#ai)
+*   [chatgpt](#chatgpt)
+*   [confluence](#confluence)
+*   [enterprise-search](#enterprise-search)
+*   [helpdesk](#helpdesk)
+*   [helpdesk-tools](#helpdesk-tools)
+*   [llama-index](#llama-index)
+*   [machine-learning](#machine-learning)
+*   [search-engine](#search-engine)
+*   [semantic-search-engine](#semantic-search-engine)
+*   [similarity-search](#similarity-search)
+*   [sysadmin](#sysadmin)
+*   [tech-support](#tech-support)
+*   [technical-support](#technical-support)
+*   [vector-search](#vector-search)
+*   [workplace-search](#workplace-search)
 *   [miscellaneous](#miscellaneous)
 *   [ab-testing](#ab-testing)
 *   [analytics](#analytics)
@@ -14,7 +30,6 @@
 *   [react](#react)
 *   [session-replay](#session-replay)
 *   [typescript](#typescript)
-*   [chatgpt](#chatgpt)
 *   [docs](#docs)
 *   [gpt-3](#gpt-3)
 *   [gpt-35-turbo](#gpt-35-turbo)
@@ -226,7 +241,6 @@
 *   [config](#config)
 *   [consul](#consul)
 *   [devops-tools](#devops-tools)
-*   [sysadmin](#sysadmin)
 *   [sysops](#sysops)
 *   [template](#template)
 *   [templating](#templating)
@@ -363,6 +377,80 @@
 *   [dhall](#dhall)
 *   [unit-testing](#unit-testing)
 
+## ai
+
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+
+## chatgpt
+
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+
+*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+
+*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
+
+*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
+## confluence
+
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+
+## enterprise-search
+
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+
+## helpdesk
+
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+
+## helpdesk-tools
+
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+
+## llama-index
+
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+
+## machine-learning
+
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+
+## search-engine
+
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+
+## semantic-search-engine
+
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+
+## similarity-search
+
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+
+## sysadmin
+
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+
+*   [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
+
+## tech-support
+
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+
+## technical-support
+
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+
+## vector-search
+
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+
+## workplace-search
+
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+
 ## miscellaneous
 
 *   [angad/dharamshala](https://github.com/angad/dharamshala) -
@@ -429,8 +517,6 @@
 
 *   [jaxgeller/free-proxy-rotator](https://github.com/jaxgeller/free-proxy-rotator) - Rotate free proxies
 
-*   [marcopaganini/smartcollector](https://github.com/marcopaganini/smartcollector) - SmartThings sensor data collector for prometheus
-
 ## ab-testing
 
 *   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
@@ -484,16 +570,6 @@
 *   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 
 *   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
-
-## chatgpt
-
-*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-
-*   [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
-
-*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
-
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## docs
 
@@ -1538,10 +1614,6 @@
 *   [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 
 ## devops-tools
-
-*   [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
-
-## sysadmin
 
 *   [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 
