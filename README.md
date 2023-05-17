@@ -24,7 +24,7 @@
 
 ## Python
 
-*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for workplaces 🔎
+*   [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
 
 *   [angad/dharamshala](https://github.com/angad/dharamshala) -
 
