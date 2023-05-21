@@ -387,7 +387,7 @@
 
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
-*   [psychicapi/psychic](https://github.com/psychicapi/psychic) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
+*   [psychic-api/psychic](https://github.com/psychic-api/psychic) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
 
 *   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
@@ -593,31 +593,31 @@
 
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
-*   [psychicapi/psychic](https://github.com/psychicapi/psychic) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
+*   [psychic-api/psychic](https://github.com/psychic-api/psychic) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
 
 *   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
 ## chatbot
 
-*   [psychicapi/psychic](https://github.com/psychicapi/psychic) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
+*   [psychic-api/psychic](https://github.com/psychic-api/psychic) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
 
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## conversational-ai
 
-*   [psychicapi/psychic](https://github.com/psychicapi/psychic) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
+*   [psychic-api/psychic](https://github.com/psychic-api/psychic) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
 
 ## etl-pipelines
 
-*   [psychicapi/psychic](https://github.com/psychicapi/psychic) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
+*   [psychic-api/psychic](https://github.com/psychic-api/psychic) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
 
 ## langchain
 
-*   [psychicapi/psychic](https://github.com/psychicapi/psychic) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
+*   [psychic-api/psychic](https://github.com/psychic-api/psychic) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
 
 ## weaviate
 
-*   [psychicapi/psychic](https://github.com/psychicapi/psychic) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
+*   [psychic-api/psychic](https://github.com/psychic-api/psychic) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
 
 ## actions
 
