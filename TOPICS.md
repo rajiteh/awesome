@@ -459,7 +459,7 @@
 
 *   [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 
-*   [jerryjliu/llama\_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
+*   [jerryjliu/llama\_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 
 *   [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -
 
